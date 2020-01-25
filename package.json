@@ -1,0 +1,29 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iamkosgei/hello_world_node_js.git"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "kosgei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iamkosgei/hello_world_node_js/issues"
+  },
+  "homepage": "https://github.com/Iamkosgei/hello_world_node_js#readme",
+  "dependencies": {
+    "uuid": "^3.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
